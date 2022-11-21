@@ -24,7 +24,8 @@
 
 #### Conhecimentos Técnicos
 
-* :space_invader: C# / ASP.NET Core - Básico
+* :space_invader: Drupal - Intermediário
+* :space_invader: C# / ASP.NET Core - Intermediário
 * :space_invader: Java - Intermediário
 * :space_invader: Desenvolvimento Web (HTML5, CSS3, JavaScript) - Intermediário
 * :space_invader: SQL / Banco de dados - Intermediário
